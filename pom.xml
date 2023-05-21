@@ -100,4 +100,9 @@
         </plugins>
     </build>
 
+    <modules>
+        <module>ng85-module-core</module>
+        <module>ng85-module-persistence-jpa</module>
+    </modules>
+
 </project>
