@@ -1,5 +1,5 @@
 # NG85 Modules
 
-## module-persistence-jpa-api
+## module-persistence-jpa
 
-## module-persistence-jpa-core
+## module-persistence-web
