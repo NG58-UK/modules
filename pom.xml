@@ -103,6 +103,7 @@
     <modules>
         <module>ng85-module-core</module>
         <module>ng85-module-persistence-jpa</module>
+        <module>ng85-module-event-logging</module>
     </modules>
 
 </project>
