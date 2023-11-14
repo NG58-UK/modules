@@ -1,4 +1,4 @@
-package uk.ng85.modules.persistence.jpa.model.query;
+package uk.ng85.modules.persistence.api.model.query;
 
 import lombok.*;
 

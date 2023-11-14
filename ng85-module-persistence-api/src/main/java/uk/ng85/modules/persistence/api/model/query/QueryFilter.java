@@ -1,4 +1,4 @@
-package uk.ng85.modules.persistence.jpa.model.query;
+package uk.ng85.modules.persistence.api.model.query;
 
 import lombok.*;
 
@@ -14,6 +14,21 @@ import java.util.List;
 @Setter
 @ToString
 public class QueryFilter {
+
+    /**
+     *
+     */
+    private String field;
+
+    /**
+     * @see Operation
+     */
+    private Operation operation;
+
+    /**
+     *
+     */
+    private List<Object> values;
 
     /**
      *
@@ -51,20 +66,5 @@ public class QueryFilter {
         LT
 
     }
-
-    /**
-     *
-     */
-    private String field;
-
-    /**
-     * @see Operation
-     */
-    private Operation operation;
-
-    /**
-     *
-     */
-    private List<String> values;
 
 }

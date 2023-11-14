@@ -1,0 +1,16 @@
+uk/ng85/modules/persistence/api/model/query/QueryResultSorting$Direction.class
+uk/ng85/modules/persistence/api/model/query/QueryFilter$QueryFilterBuilder.class
+uk/ng85/modules/persistence/api/model/query/QueryJoinFields$Definition.class
+uk/ng85/modules/persistence/api/model/query/QueryJoinFields$QueryJoinFieldsBuilder.class
+uk/ng85/modules/persistence/api/model/entity/GenericEntity.class
+uk/ng85/modules/persistence/api/model/query/QueryJoinFields.class
+uk/ng85/modules/persistence/api/model/query/QueryJoinFields$Definition$JoinType.class
+uk/ng85/modules/persistence/api/model/query/QueryFilter.class
+uk/ng85/modules/persistence/api/model/query/QueryResultPagination.class
+uk/ng85/modules/persistence/api/GenericRepository.class
+uk/ng85/modules/persistence/api/model/RepositoryException.class
+uk/ng85/modules/persistence/api/model/query/QueryJoinFields$Definition$DefinitionBuilder.class
+uk/ng85/modules/persistence/api/model/query/QueryFilter$Operation.class
+uk/ng85/modules/persistence/api/model/query/QueryResultSorting.class
+uk/ng85/modules/persistence/api/model/query/QueryResultSorting$QueryResultSortingBuilder.class
+uk/ng85/modules/persistence/api/model/query/QueryResultPagination$QueryResultPaginationBuilder.class

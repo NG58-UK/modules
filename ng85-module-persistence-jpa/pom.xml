@@ -16,4 +16,30 @@
     <artifactId>ng85-module-persistence-jpa</artifactId>
     <name>NG85 Module - Persistence - JPA</name>
 
+    <dependencies>
+        <!-- H2 Database -->
+        <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <!-- Hibernate ORM -->
+        <dependency>
+            <groupId>org.hibernate.orm</groupId>
+            <artifactId>hibernate-core</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <!-- Jakarta -->
+        <dependency>
+            <groupId>jakarta.persistence</groupId>
+            <artifactId>jakarta.persistence-api</artifactId>
+        </dependency>
+        <!-- NG85 Modules -->
+        <dependency>
+            <groupId>uk.ng85.modules</groupId>
+            <artifactId>ng85-module-persistence-api</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+    </dependencies>
+
 </project>
